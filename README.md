@@ -1,9 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungHoon's%20Hub&fontSize=40&animation=fadeIn&fontAlignY=40)
 
-# Hi, I'm YoungHoon's
-
-> **구조적으로 문제를 해결하는 개발자**  
-> 끈기와 몰입으로 문제를 끝까지 해결하고, 원리와 구조를 이해하며 안정적인 코드를 지향합니다.  
+# 끈기를 가지고 몰입하는 개발자, 윤영훈입니다.
 
 
 ## 💡 About Me
