@@ -64,14 +64,16 @@
 ### 🎬 [Filmer | 영화 추천 웹사이트](https://github.com/gangseunghyun/movie-project)  
 - **역할**: 팀장 (프론트엔드 전담 개발, Figma 화면 설계, API 명세 정의)  
 - **기간**: 2025.06.20 ~ 2025.07.23  
-- **목표**: 사용자 태그 기반 맞춤형 영화 추천 서비스 제공 (React + Spring Boot)  
+- **목표**: 사용자 태그 기반 맞춤형 영화 추천 서비스 제공 (React + Spring Boot)
+- [**포트폴리오**](https://drive.google.com/file/d/1J5xpxvrbyVsqboxeNx35qoKHe0a4zmBc/view)
 
 
 
 ### 🏢 [ERP System | 프랜차이즈 ERP 시스템](https://github.com/shstksdbs/ERP_Project)  
 - **역할**: 개인 프로젝트 (기획·설계·백/프론트 전담)  
 - **기간**: 2025.08.01 ~ 2025.09.04  
-- **목표**: 본사-가맹점-키오스크 간 ERP 통합 시스템 (WebSocket 알림, Redis 캐싱, Batch 처리)  
+- **목표**: 본사-가맹점-키오스크 간 ERP 통합 시스템 (WebSocket 알림, Redis 캐싱, Batch 처리)
+- [**포트폴리오**](https://drive.google.com/file/d/1wrNSLvlJiwQgayZATxTcqwPucL6YqmIt/view?usp=sharing)
 
 ---
 
